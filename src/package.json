@@ -1,0 +1,6 @@
+{
+  "name": "angular-carbon-component",
+  "dependencies": {
+    "moment": "*"
+  }
+}

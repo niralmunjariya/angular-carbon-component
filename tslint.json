@@ -1,0 +1,15 @@
+{
+  "rules": {
+    "member-access": false,
+    "use-host-property-decorator": false,
+    "no-parameter-properties": false,
+    "typedef": false,
+    "no-inferrable-types": true,
+    "no-forward-ref": false,
+    "no-null-keyword": false,
+    "only-arrow-functions": false,
+    "no-access-missing-member": false,
+    "directive-selector": false,
+    "component-selector": false
+  }
+}
